@@ -68,3 +68,4 @@ using Pkg
 Pkg.build("RCall")
 ```
 This will set up a fresh (separate) installation of R on your computer which is exclusively used by Julia, and doesn't interfere with any existing installations of R.
+
